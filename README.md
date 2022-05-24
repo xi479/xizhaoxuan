@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xizhaoxuan.
+- 👋 Hi, I’m @MaNewB.
 - 👀 I’m interested in IT.
 - 🌱 I’m currently learning python,git and web.
 - 💞️ I’m looking to collaborate on ...
